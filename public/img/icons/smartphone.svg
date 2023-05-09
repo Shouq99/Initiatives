@@ -1,0 +1,68 @@
+<svg id="_Group_" data-name="&lt;Group&gt;" xmlns="http://www.w3.org/2000/svg" width="120" height="100" viewBox="0 0 267 267">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8922c;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #263238;
+      }
+
+      .cls-3 {
+        fill: #7f2719;
+      }
+
+      .cls-4 {
+        fill: #ff5252;
+      }
+    </style>
+  </defs>
+  <path id="Compound_Shape" data-name="Compound Shape" class="cls-1" d="M66.671,70.834v47.8H200v-47.8H66.671Z"/>
+  <g id="_Group_2" data-name="&lt;Group&gt;">
+    <path id="Compound_Shape-2" data-name="Compound Shape" class="cls-2" d="M87.5,35.417a18.771,18.771,0,0,0-18.75,18.75v187.5a18.771,18.771,0,0,0,18.75,18.75h91.667a18.771,18.771,0,0,0,18.75-18.75V54.167a18.771,18.771,0,0,0-18.75-18.75H87.5Zm91.667,229.166H87.5a22.943,22.943,0,0,1-22.917-22.916V54.167A22.944,22.944,0,0,1,87.5,31.25h91.667a22.944,22.944,0,0,1,22.916,22.917v187.5A22.943,22.943,0,0,1,179.169,264.583Z"/>
+  </g>
+  <path id="Compound_Shape-3" data-name="Compound Shape" class="cls-2" d="M85.421,10.417H68.754a2.083,2.083,0,1,0,0,4.167H85.421A2.083,2.083,0,1,0,85.421,10.417Z"/>
+  <path id="Compound_Shape-4" data-name="Compound Shape" class="cls-2" d="M77.087,2.083A2.082,2.082,0,0,0,75,4.167V20.833a2.083,2.083,0,1,0,4.167,0V4.167A2.082,2.082,0,0,0,77.087,2.083Z"/>
+  <path id="Compound_Shape-5" data-name="Compound Shape" class="cls-2" d="M62.5,29.167H45.837a2.083,2.083,0,0,0,0,4.167H62.5A2.083,2.083,0,0,0,62.5,29.167Z"/>
+  <path id="Compound_Shape-6" data-name="Compound Shape" class="cls-2" d="M54.171,20.833a2.082,2.082,0,0,0-2.083,2.083V39.583a2.083,2.083,0,1,0,4.167,0V22.917A2.082,2.082,0,0,0,54.171,20.833Z"/>
+  <g id="_Group_3" data-name="&lt;Group&gt;">
+    <path id="Compound_Shape-7" data-name="Compound Shape" class="cls-3" d="M108.339,162.5h-25v-25h25v25Z"/>
+    <path id="Compound_Shape-8" data-name="Compound Shape" class="cls-2" d="M85.423,160.417h20.833V139.583H85.423v20.834Zm22.916,4.166h-25a2.082,2.082,0,0,1-2.083-2.083v-25a2.082,2.082,0,0,1,2.083-2.083h25a2.082,2.082,0,0,1,2.084,2.083v25A2.082,2.082,0,0,1,108.339,164.583Z"/>
+  </g>
+  <g id="_Group_4" data-name="&lt;Group&gt;">
+    <path id="Compound_Shape-9" data-name="Compound Shape" class="cls-2" d="M122.923,160.417h20.833V139.583H122.923v20.834Zm22.916,4.166h-25a2.082,2.082,0,0,1-2.083-2.083v-25a2.082,2.082,0,0,1,2.083-2.083h25a2.082,2.082,0,0,1,2.084,2.083v25A2.082,2.082,0,0,1,145.839,164.583Z"/>
+  </g>
+  <g id="_Group_5" data-name="&lt;Group&gt;">
+    <path id="Compound_Shape-10" data-name="Compound Shape" class="cls-1" d="M183.339,162.5h-25v-25h25v25Z"/>
+    <path id="Compound_Shape-11" data-name="Compound Shape" class="cls-2" d="M160.423,160.417h20.833V139.583H160.423v20.834Zm22.916,4.166h-25a2.082,2.082,0,0,1-2.083-2.083v-25a2.082,2.082,0,0,1,2.083-2.083h25a2.082,2.082,0,0,1,2.084,2.083v25A2.082,2.082,0,0,1,183.339,164.583Z"/>
+  </g>
+  <g id="_Group_6" data-name="&lt;Group&gt;">
+    <path id="Compound_Shape-12" data-name="Compound Shape" class="cls-2" d="M85.423,195.833h20.833V175H85.423v20.833ZM108.339,200h-25a2.082,2.082,0,0,1-2.083-2.083v-25a2.082,2.082,0,0,1,2.083-2.084h25a2.083,2.083,0,0,1,2.084,2.084v25A2.082,2.082,0,0,1,108.339,200Z"/>
+  </g>
+  <g id="_Group_7" data-name="&lt;Group&gt;">
+    <path id="Compound_Shape-13" data-name="Compound Shape" class="cls-4" d="M145.839,197.918h-25v-25h25v25Z"/>
+    <path id="Compound_Shape-14" data-name="Compound Shape" class="cls-2" d="M122.923,195.833h20.833V175H122.923v20.833ZM145.839,200h-25a2.082,2.082,0,0,1-2.083-2.083v-25a2.082,2.082,0,0,1,2.083-2.084h25a2.083,2.083,0,0,1,2.084,2.084v25A2.082,2.082,0,0,1,145.839,200Z"/>
+  </g>
+  <g id="_Group_8" data-name="&lt;Group&gt;">
+    <path id="Compound_Shape-15" data-name="Compound Shape" class="cls-2" d="M160.423,195.833h20.833V175H160.423v20.833ZM183.339,200h-25a2.082,2.082,0,0,1-2.083-2.083v-25a2.082,2.082,0,0,1,2.083-2.084h25a2.083,2.083,0,0,1,2.084,2.084v25A2.082,2.082,0,0,1,183.339,200Z"/>
+  </g>
+  <path id="Compound_Shape-16" data-name="Compound Shape" class="cls-2" d="M200,52.083H66.669a2.083,2.083,0,0,0,0,4.167H200A2.083,2.083,0,0,0,200,52.083Z"/>
+  <path id="Compound_Shape-17" data-name="Compound Shape" class="cls-2" d="M200,239.583H66.669a2.084,2.084,0,0,0,0,4.167H200A2.084,2.084,0,0,0,200,239.583Z"/>
+  <g id="_Group_9" data-name="&lt;Group&gt;">
+    <path id="Compound_Shape-18" data-name="Compound Shape" class="cls-2" d="M133.337,243.75a8.334,8.334,0,1,0,8.334,8.333A8.342,8.342,0,0,0,133.337,243.75Zm0,20.833a12.5,12.5,0,1,1,12.5-12.5A12.514,12.514,0,0,1,133.337,264.583Z"/>
+  </g>
+  <path id="Compound_Shape-19" data-name="Compound Shape" class="cls-2" d="M143.754,41.667H122.923a2.083,2.083,0,1,0,0,4.167h20.831A2.083,2.083,0,0,0,143.754,41.667Z"/>
+  <path id="Compound_Shape-20" data-name="Compound Shape" class="cls-2" d="M45.837,72.917A2.082,2.082,0,0,0,43.754,75v58.333a2.083,2.083,0,1,0,4.167,0V75A2.082,2.082,0,0,0,45.837,72.917Z"/>
+  <path id="Compound_Shape-21" data-name="Compound Shape" class="cls-2" d="M45.837,139.583a2.082,2.082,0,0,0-2.083,2.084V150a2.083,2.083,0,0,0,4.167,0v-8.333A2.082,2.082,0,0,0,45.837,139.583Z"/>
+  <path id="Compound_Shape-22" data-name="Compound Shape" class="cls-2" d="M220.835,160.417a2.082,2.082,0,0,0-2.083,2.083v58.333a2.084,2.084,0,1,0,4.167,0V162.5A2.082,2.082,0,0,0,220.835,160.417Z"/>
+  <path id="Compound_Shape-23" data-name="Compound Shape" class="cls-2" d="M220.835,143.75a2.082,2.082,0,0,0-2.083,2.083v8.334a2.084,2.084,0,0,0,4.167,0v-8.334A2.082,2.082,0,0,0,220.835,143.75Z"/>
+  <g id="_Group_10" data-name="&lt;Group&gt;">
+    <path id="Compound_Shape-24" data-name="Compound Shape" class="cls-3" d="M200,70.834H66.671V54.168H200V70.834Z"/>
+    <path id="Compound_Shape-25" data-name="Compound Shape" class="cls-2" d="M68.754,68.75H197.919V56.25H68.754v12.5ZM200,72.917H66.671a2.082,2.082,0,0,1-2.083-2.083V54.167a2.082,2.082,0,0,1,2.083-2.083H200a2.082,2.082,0,0,1,2.083,2.083V70.833A2.082,2.082,0,0,1,200,72.917Z"/>
+  </g>
+</svg>
